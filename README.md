@@ -19,4 +19,4 @@ The code in this repository can be used as a starting point for simulating fluid
 ## Conclusion
 Overall, this article highlights the principles and numerical methods used to simulate fluid flow through water treatment screens. The results of the simulation can be used to gain a deeper understanding of fluid behavior in wastewater treatment processes, and the code in this repository can be used as an understanding of the Navier-Stokes equations and a starting point for future simulations. 
 
-##### PS: This article was made as an assesment for the Numerical Methods of Simulations course.
+
